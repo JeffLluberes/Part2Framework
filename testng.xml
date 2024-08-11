@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+
+    <listeners>
+        <listener class-name="Listeners.VerifyListener"/>
+    </listeners>
+    <test verbose="2" preserve-order="true"
+          name="C:/Users/Jllub/OneDrive/Desktop/Automation/MAVEN/apache-maven-3.9.6/BootCampPart2/src/test/java/TestCases">
+        <classes>
+            <class name="TestCases.Checkout">
+                <methods>
+                    <include name="validateProductInCheckoutPage"/>
+                    <include name="completeCheckOut"/>
+                </methods>
+            </class>
+            <class name="TestCases.Login">
+                <methods>
+                    <include name="verifyLoginWithValidCredentials"/>
+                    <include name="verifyForgotPasswordLink"/>
+                    <include name="loginWithInvalidEmailValidPassword"/>
+                    <include name="loginWithValidEmailInvalidPassword"/>
+                    <include name="loginWithInvalidEmailInvalidPassword"/>
+                    <include name="validateWarningMessageForMultipleLoginAttemptsWIthInvalidCredentials"/>
+                    <include name="tearDOwn"/>
+                </methods>
+            </class>
+            <class name="TestCases.Register">
+                <methods>
+                    <include name="verifySuccessfulLoginWithValidCredentials"/>
+                    <include name="veryWarningMessageForEmptyFirstNameCredential"/>
+                    <include name="verifyWarningMessageForLastNameCredential"/>
+                    <include name="verifyWarningMessageForEmptyEmailCredential"/>
+                    <include name="verifyWarningMessageForEmptyTelephoneCredential"/>
+                    <include name="verifyErrorMessageForEmptyPasswordField"/>
+                    <include name="verifyWarningForPasswordsNotMatching"/>
+                </methods>
+            </class>
+            <class name="TestCases.SearchProduct">
+                <methods>
+                    <include name="verifySearchBoxFieldBoxIsPresentInSearchPage"/>
+                    <include name="verifySearchButtonIsClickable"/>
+                    <include name="verifySearchMatchesItemDisplayed"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>
