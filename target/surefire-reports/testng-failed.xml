@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [All Test Suite]" guice-stage="DEVELOPMENT" verbose="0">
+  <listeners>
+    <listener class-name="Listeners.VerifyListener"/>
+  </listeners>
+  <test thread-count="5" name="C:/Users/Jllub/OneDrive/Desktop/Automation/MAVEN/apache-maven-3.9.6/BootCampPart2/src/test/java/TestCases(failed)" verbose="0">
+    <classes>
+      <class name="TestCases.Login">
+        <methods>
+          <include name="tearDOwn"/>
+          <include name="verifyLoginWithValidCredentials"/>
+          <include name="loginSetup"/>
+        </methods>
+      </class> <!-- TestCases.Login -->
+      <class name="TestCases.Checkout">
+        <methods>
+          <include name="completeCheckOut"/>
+          <include name="startCheckout"/>
+        </methods>
+      </class> <!-- TestCases.Checkout -->
+    </classes>
+  </test> <!-- C:/Users/Jllub/OneDrive/Desktop/Automation/MAVEN/apache-maven-3.9.6/BootCampPart2/src/test/java/TestCases(failed) -->
+</suite> <!-- Failed suite [All Test Suite] -->
