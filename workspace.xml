@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a11d72a7-a1a6-4feb-8732-eff8f8f6f718" name="Changes" comment="&quot;update&quot;">
+      <change beforePath="$PROJECT_DIR$/Test_Output/ExtentReport/extentreporterTuturialNinja.html" beforeDir="false" afterPath="$PROJECT_DIR$/Test_Output/ExtentReport/extentreporterTuturialNinja.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test_Output/ScreenShots/null.png" beforeDir="false" afterPath="$PROJECT_DIR$/Test_Output/ScreenShots/Test.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Listeners/VerifyListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Listeners/VerifyListener.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="jar://$MAVEN_REPOSITORY$/org/testng/testng/7.10.2/testng-7.10.2.jar!/org/testng/ITestListener.class" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2jsO9VrXvrwRFCbM75BEW2LstTx" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.System_Information.executor": "Run",
+    "DefaultHtmlFileTemplate": "HTML File",
+    "Karate.ExtentReport.executor": "Coverage",
+    "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "TestNG.C:/Users/Jllub/OneDrive/Desktop/Automation/MAVEN/apache-maven-3.9.6/BootCampPart2/testng.xml.executor": "Run",
+    "TestNG.Checkout.completeCheckOut.executor": "Run",
+    "TestNG.Checkout.validateProductInCheckoutPage.executor": "Run",
+    "TestNG.Login.executor": "Run",
+    "TestNG.Login.loginWithInvalidEmailInvalidPassword.executor": "Run",
+    "TestNG.Login.loginWithInvalidEmailValidPassword.executor": "Run",
+    "TestNG.Login.loginWithValidEmailInvalidPassword.executor": "Run",
+    "TestNG.Login.validateWarningMessageForMultipleLoginAttemptsWIthInvalidCredentials.executor": "Run",
+    "TestNG.Login.verifyForgotPasswordLink.executor": "Run",
+    "TestNG.Login.verifyLoginWithValidCredentials.executor": "Run",
+    "TestNG.Register.executor": "Run",
+    "TestNG.Register.verifyErrorMessageForEmptyPasswordField.executor": "Run",
+    "TestNG.Register.verifyErrorMessageForLastNameFieldBox.executor": "Run",
+    "TestNG.Register.verifySuccessfulLoginWithValidCredentials.executor": "Run",
+    "TestNG.Register.verifyWarningForPasswordNotMatching.executor": "Run",
+    "TestNG.Register.verifyWarningForPasswordsNotMatching.executor": "Run",
+    "TestNG.Register.veryErrorMessageForEmptyFirstNameFieldBox.executor": "Run",
+    "TestNG.Register.veryWarningMessageForEmptyFirstNameCredential.executor": "Run",
+    "TestNG.SearchProduct.executor": "Run",
+    "TestNG.SearchProduct.verifySearchMatchesItemDisplayed.executor": "Run",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "run.code.analysis.last.selected.profile": "pProject Default",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
+  }
+}]]></component>
+  <component name="RunManager" selected="TestNG.C:/Users/Jllub/OneDrive/Desktop/Automation/MAVEN/apache-maven-3.9.6/BootCampPart2/testng.xml">
+    <configuration name="ExtentReport" type="KarateRunConfiguration" factoryName="KarateRunConfiguration" temporary="true">
+      <option name="karatePath" value="$PROJECT_DIR$/Test_Output/ExtentReport" />
+      <module name="BootCampPart2.TutorialsNinja.Hybrid.Framework" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C:/Users/Jllub/OneDrive/Desktop/Automation/MAVEN/apache-maven-3.9.6/BootCampPart2/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="BootCampPart2.TutorialsNinja.Hybrid.Framework" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/testng.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Checkout.completeCheckOut" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="BootCampPart2.TutorialsNinja.Hybrid.Framework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="TestCases.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="TestCases" />
+      <option name="MAIN_CLASS_NAME" value="TestCases.Checkout" />
+      <option name="METHOD_NAME" value="completeCheckOut" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Checkout.validateProductInCheckoutPage" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="BootCampPart2.TutorialsNinja.Hybrid.Framework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="TestCases.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="TestCases" />
+      <option name="MAIN_CLASS_NAME" value="TestCases.Checkout" />
+      <option name="METHOD_NAME" value="validateProductInCheckoutPage" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Login.loginWithInvalidEmailInvalidPassword" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="BootCampPart2.TutorialsNinja.Hybrid.Framework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="TestCases.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="TestCases" />
+      <option name="MAIN_CLASS_NAME" value="TestCases.Login" />
+      <option name="METHOD_NAME" value="loginWithInvalidEmailInvalidPassword" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.C:/Users/Jllub/OneDrive/Desktop/Automation/MAVEN/apache-maven-3.9.6/BootCampPart2/testng.xml" />
+        <item itemvalue="TestNG.Checkout.validateProductInCheckoutPage" />
+        <item itemvalue="TestNG.Checkout.completeCheckOut" />
+        <item itemvalue="TestNG.Login.loginWithInvalidEmailInvalidPassword" />
+        <item itemvalue="Karate.ExtentReport" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a11d72a7-a1a6-4feb-8732-eff8f8f6f718" name="Changes" comment="" />
+      <created>1722172167061</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1722172167061</updated>
+    </task>
+    <task id="LOCAL-00001" summary="&quot;update&quot;">
+      <option name="closed" value="true" />
+      <created>1722559963813</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1722559963813</updated>
+    </task>
+    <task id="LOCAL-00002" summary="&quot;update&quot;">
+      <option name="closed" value="true" />
+      <created>1722642803224</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1722642803224</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="&quot;update&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="&quot;update&quot;" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/BootCampPart2$C__Users_Jllub_OneDrive_Desktop_Automation_MAVEN_apache_maven_3_9_6_BootCampPart2_testng_xml.ic" NAME="$PROJECT_DIR$/testng.xml Coverage Results" MODIFIED="1722729178494" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true" />
+    <SUITE FILE_PATH="coverage/BootCampPart2$ExtentReport.ic" NAME="ExtentReport Coverage Results" MODIFIED="1722386779384" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true" />
+  </component>
+</project>
